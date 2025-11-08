@@ -1,5 +1,5 @@
-let repo = "JwowSquared/Radical-Red-Pokedex";
-let version = "rrdex release 1.2.2";
+let repo = "sethurax/hnsdex";
+let version = "hnsdex release 0.1.0";
 
 species = null;
 moves = null;
